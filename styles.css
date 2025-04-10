@@ -47,35 +47,15 @@ nav a:hover {
     margin-bottom: 20px;
 }
 
-
-.social-button {
-    display: inline-block;
-    padding: 20px 20px;
-    margin: 5px;
-    background-color: #007bff;
-    color: white;
-    text-decoration: none;
-    border-radius: 15px;
-    transition: background-color 0.3s;
-}
-
 .social-button:hover {
     background-color: #0056b3;
 }
 
 .section-title {
     text-align: center;
-    margin: 25px 0 15px;
+    margin: 10px 0 10px;
     color: #333;
     font-size: 2em;
     border-bottom: #007bff;
     display: inline-block;
-}
-
-.social-buttons-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
-    margin-top: 15px;
 }
